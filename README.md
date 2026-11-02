@@ -1,2 +1,9 @@
-# Ai_cybersecurity_learning
-learning cyber security to achieve the happening success stage I give my all
+# AI and Cybersecurity Learning
+
+Day 1:
+- Introduction to AI
+- Introduction to Cybersecurity
+- Python basics
+- GitHub introduction
+
+Goal: Learn something new every day.# Ai_cybersecurity_learn
